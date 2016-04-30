@@ -1,0 +1,3 @@
+autotools and cmake sample for cross platform c/c++ libraries.
+I have cloned nanomsg's repo and added some source files. I think this
+is very good starting point to writing c/c++ libraries.
